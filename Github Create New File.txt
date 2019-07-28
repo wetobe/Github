@@ -1,0 +1,21 @@
+
+方法/步骤
+
+1、点击“create new file”的按钮
+
+2、在输入文件名的输入框中输入文件夹名字
+
+3、输入完文件夹名称后按斜杠“/”，文件夹的名称就显示为文件夹的样子了。 
+
+随便输入一个文件名，并在下面文件内容中输入点内容，最后按提交，文件夹就建立了。
+
+
+Method / step
+
+1, click the "Create New File" button
+
+2, enter the folder name in the input box name input box
+
+3. After entering the folder name and pressing the slash "/", the folder name will be displayed as a folder.
+
+Just enter a file name, enter the content in the contents of the file below, and finally press Submit, the folder is created.
